@@ -1,4 +1,4 @@
-package co.edu.wheelspagos;
+package co.lamafia.pagos_wheels;
 
 import org.junit.Test;
 
